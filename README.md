@@ -1,3 +1,5 @@
+<img src="./banner.svg" />
+
 # Hi 👋, I'm Khabbab Bin Bashar
 
 Textile Engineering student turned web developer  
@@ -7,6 +9,7 @@ Consistency over talent
 ---
 
 ## 🚀 About Me
+
 - 🎓 Studying **Textile Engineering**
 - 💻 Passionate about **programming & web development**
 - 🌱 Currently learning **full-stack development**
@@ -37,13 +40,13 @@ Consistency over talent
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-
 ---
 
 ## 📌 Projects
-- ☕ **Coffee Shop Website** – Responsive frontend project  
-- 📖 **Online Dictionary App** – API-based word search application  
-- 🩸 **Blood Donation Platform** – Full-stack CRUD-based system  
+
+- ☕ **Coffee Shop Website** – Responsive frontend project
+- 📖 **Online Dictionary App** – API-based word search application
+- 🩸 **Blood Donation Platform** – Full-stack CRUD-based system
 
 <p align="center">
   <a href="https://github.com/khabbab-dev?tab=repositories" target="_blank">
@@ -51,9 +54,8 @@ Consistency over talent
   </a>
 </p>
 
-
-
 ## 🤝 Connect With Me
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/shippo_everywhere)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/binbashar.shippo/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801568151747)
@@ -61,10 +63,11 @@ Consistency over talent
 ---
 
 ## 📌 Current Goals
+
 - Strengthen **React, Firebase & backend skills**
 - Build **scalable full-stack applications**
 - Prepare for **developer roles & internships**
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ _If you like my work, consider giving a star to my repositories!_
