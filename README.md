@@ -15,18 +15,28 @@ Consistency over talent
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:**  
-HTML, CSS, JavaScript, React  
+<h3 align="center">🛠 Tech Stack</h3>
 
-**Backend:**  
-Node.js, Express.js  
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-**Database & Auth:**  
-MongoDB, Firebase  
+<p align="center"><strong>Backend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Tools & Others:**  
-Git, GitHub, VS Code, REST APIs
+<p align="center"><strong>Database & Auth</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+<p align="center"><strong>Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
 ---
 
