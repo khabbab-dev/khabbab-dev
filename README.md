@@ -1,5 +1,7 @@
 <img src="./banner.svg" />
 
+---
+
 # Hi 👋, I'm Khabbab Bin Bashar
 
 Textile Engineering student turned web developer  
