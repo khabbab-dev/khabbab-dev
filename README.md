@@ -45,7 +45,12 @@ Consistency over talent
 - 📖 **Online Dictionary App** – API-based word search application  
 - 🩸 **Blood Donation Platform** – Full-stack CRUD-based system  
 
-➡️ *More projects in my repositories…*
+<p align="center">
+  <a href="https://github.com/khabbab-dev?tab=repositories" target="_blank">
+    ➡️ <em>More projects in my repositories…</em>
+  </a>
+</p>
+
 
 
 ## 🤝 Connect With Me
